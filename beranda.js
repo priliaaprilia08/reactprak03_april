@@ -16,9 +16,9 @@ const Beranda = () => {
               </div>
             </div>
             <p className="i-desc">
-              “Buku adalah sumber ilmu terbaik bagi siapa pun yang membacanya.” Aplikasi Baca.In hadir memberikan kemudahan bagi para siswa untuk mengakses buku PEMBELAJARAN, MENGUNDUH BUKU FAVORIT, MENGUPLOAD KARYA ATAU BUKU YANG INGIN DIKOLEKSI.
+              “YO"
             </p>
- 
+   
           </div>
 
         </div>
